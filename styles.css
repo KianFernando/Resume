@@ -1,0 +1,38 @@
+html { 
+  background: url(nasa-rTZW4f02zY8-unsplash.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.yey{
+	width: 600px;
+	height: 3350px;
+	background: rgba(0,0,0,0.8);
+	padding: 40px;
+	margin: 0 auto;
+	color: white;
+	margin-top: 100px;
+	order-color:solid white;
+	color: white;
+	outline: 2px solid white;
+	box-shadow: 0 0 15px 1px white;
+	transition: 3s;
+}
+.ey{
+	height: 150px;
+    margin-left: 60% ;
+    order-color:solid black;
+	color: black;
+	outline: 2px solid black;
+	
+}
+
+.box-1{
+	order-color:  solid white;
+	color: white;
+	outline: 1px solid white ;
+	box-shadow: 0 0 10px 1px white;
+	transition: 3s;
+	padding: 5px;
+}
